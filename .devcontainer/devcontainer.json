@@ -15,7 +15,8 @@
 	"extensions": [
 		"dbaeumer.vscode-eslint",
 		"bashmish.es6-string-css",
-		"hjb2012.vscode-es6-string-html"
+		"hjb2012.vscode-es6-string-html",
+		"esbenp.prettier-vscode"
 	],
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
 	// "forwardPorts": [],
