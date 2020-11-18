@@ -1,7 +1,7 @@
 {
   "name": "storybook-web-components",
   "version": "1.0.0",
-  "description": "Storybook example using plain (standards compliant) web components. (No building required)",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -24,9 +24,8 @@
     "@storybook/addon-actions": "^6.0.28",
     "@storybook/addon-essentials": "^6.0.28",
     "@storybook/addon-links": "^6.0.28",
-    "@storybook/web-components": "^6.0.28",
+    "@storybook/html": "^6.0.28",
     "babel-loader": "^8.2.1",
-    "lit-html": "^1.3.0",
     "react-is": "^17.0.1"
   },
   "dependencies": {}
